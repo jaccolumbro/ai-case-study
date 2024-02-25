@@ -1,4 +1,4 @@
 # ai-case-study
 
 ## Epic Systems Corporation
-This is a EMR
+This is a EMR is a global syste 
