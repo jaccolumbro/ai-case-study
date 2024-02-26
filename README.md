@@ -39,48 +39,48 @@ Many hospitals such as Kaiser Permanente, the Cleveland Clinic, the Mayo Clinic,
 ### Competative Edge
 Epic Systems has several features and capabilities that differentiate it from its competitors and give it a competitive edge in the electronic health record (EHR) market. Some of these include:
 
-- Integrated Suite of Applications: Epic offers a comprehensive suite of applications that cover a wide range of healthcare needs, including EHR, revenue cycle management, patient engagement, and population health management. This integrated approach allows for seamless data sharing and workflow integration across different areas of a healthcare organization, which some competitors may struggle to match.
+- **Integrated Suite of Applications**: Epic offers a comprehensive suite of applications that cover a wide range of healthcare needs, including EHR, revenue cycle management, patient engagement, and population health management. This integrated approach allows for seamless data sharing and workflow integration across different areas of a healthcare organization, which some competitors may struggle to match.
 
-- Focus on Usability and User Experience: Epic is known for its user-friendly interface and focus on usability, which has contributed to its widespread adoption among healthcare providers. The system is designed to be intuitive and easy to navigate, which can lead to higher user satisfaction and adoption rates compared to some competitors.
+- **Focus on Usability and User Experience**: Epic is known for its user-friendly interface and focus on usability, which has contributed to its widespread adoption among healthcare providers. The system is designed to be intuitive and easy to navigate, which can lead to higher user satisfaction and adoption rates compared to some competitors.
 
-- Strong Interoperability: While interoperability is a key focus across the industry, Epic has made significant strides in this area, particularly through its Care Everywhere network. This network allows Epic users to exchange patient information with other healthcare organizations, even if they use a different EHR system.
+- **Strong Interoperability**: While interoperability is a key focus across the industry, Epic has made significant strides in this area, particularly through its Care Everywhere network. This network allows Epic users to exchange patient information with other healthcare organizations, even if they use a different EHR system.
 
-- Deep Customization and Configuration Options: Epic offers a high level of customization and configuration options, allowing healthcare organizations to tailor the system to their specific needs and workflows. This flexibility can be a significant advantage for organizations with complex or unique requirements. 
+- **Deep Customization and Configuration Options**: Epic offers a high level of customization and configuration options, allowing healthcare organizations to tailor the system to their specific needs and workflows. This flexibility can be a significant advantage for organizations with complex or unique requirements. 
 
-- Comprehensive Support and Training: Epic is known for its comprehensive support and training programs, which help healthcare organizations successfully implement and optimize the system. This level of support can be a valuable resource for organizations transitioning to a new EHR system.
+- **Comprehensive Support and Training**: Epic is known for its comprehensive support and training programs, which help healthcare organizations successfully implement and optimize the system. This level of support can be a valuable resource for organizations transitioning to a new EHR system.
 
-Overall, Epic's ability to offer a comprehensive, user-friendly, and interoperable EHR solution, along with strong support and customization options, gives it a competitive advantage in the market.
+ Epic's ability to offer a comprehensive, user-friendly, and interoperable EHR solution, along with strong support and customization options, gives it a competitive advantage in the market.
 
 ### AI Solutions Utilized
-- Predictive Analytics: Epic has been working on incorporating predictive analytics into its software to help identify patients at risk for certain conditions or events, such as readmissions or sepsis.
+- **Predictive Analytics**: Epic has been working on incorporating predictive analytics into its software to help identify patients at risk for certain conditions or events, such as readmissions or sepsis.
 
-- Natural Language Processing (NLP): NLP technology can extract and analyze information from unstructured clinical notes, helping to improve documentation and streamline coding processes.
+- **Natural Language Processing (NLP)**: NLP technology can extract and analyze information from unstructured clinical notes, helping to improve documentation and streamline coding processes.
 
-- Voice Recognition: Epic has integrated voice recognition technology into its software, allowing clinicians to dictate notes and instructions directly into the EHR.
+- **Voice Recognition**: Epic has integrated voice recognition technology into its software, allowing clinicians to dictate notes and instructions directly into the EHR.
 
-- Image Recognition: AI-powered image recognition can help automate the analysis of medical images, such as X-rays and MRIs, to assist radiologists and other clinicians in diagnosing conditions.
+- **Image Recognition**: AI-powered image recognition can help automate the analysis of medical images, such as X-rays and MRIs, to assist radiologists and other clinicians in diagnosing conditions.
 
-- Revenue Cycle Management: AI can be used to optimize revenue cycle management processes, such as coding and billing, to ensure accurate and timely reimbursement.
+- **Revenue Cycle Management**: AI can be used to optimize revenue cycle management processes, such as coding and billing, to ensure accurate and timely reimbursement.
 
-- Population Health Management: AI tools can analyze population health data to identify trends, risk factors, and opportunities for intervention to improve overall health outcomes.
+- **Population Health Management**: AI tools can analyze population health data to identify trends, risk factors, and opportunities for intervention to improve overall health outcomes.
 
 
 ### Technologies Utilized
 Epic Systems incorporates a variety of technologies into its electronic health record (EHR) system and related applications. Some of the key technologies used by Epic include:
 
-- Interoperability Standards: Epic utilizes standards such as HL7 and Fast Healthcare Interoperability Resources (FHIR) to facilitate data exchange between its EHR system and other healthcare systems. This allows for seamless integration with third-party applications and systems.
+- **Interoperability Standards**: Epic utilizes standards such as HL7 and Fast Healthcare Interoperability Resources (FHIR) to facilitate data exchange between its EHR system and other healthcare systems. This allows for seamless integration with third-party applications and systems.
 
-- Cloud Computing: While Epic traditionally operated on on-premise installations, it has increasingly moved towards offering cloud-based solutions. This shift allows for greater scalability, flexibility, and accessibility for healthcare organizations.
+- **Cloud Computing**: While Epic traditionally operated on on-premise installations, it has increasingly moved towards offering cloud-based solutions. This shift allows for greater scalability, flexibility, and accessibility for healthcare organizations.
 
-- Artificial Intelligence (AI) and Machine Learning: Epic has been incorporating AI and machine learning into its EHR system to improve clinical decision-making, automate tasks, and enhance predictive analytics. This includes features like predictive analytics for identifying at-risk patients and natural language processing for analyzing unstructured clinical data.
+- **Artificial Intelligence (AI) and Machine Learning**: Epic has been incorporating AI and machine learning into its EHR system to improve clinical decision-making, automate tasks, and enhance predictive analytics. This includes features like predictive analytics for identifying at-risk patients and natural language processing for analyzing unstructured clinical data.
 
-- Mobile Technology: Epic offers mobile applications for iOS and Android devices, allowing clinicians to access patient information, review test results, and communicate with colleagues from anywhere. These mobile applications leverage technologies such as secure messaging and encrypted data transmission to ensure data privacy and security.
+- **Mobile Technology**: Epic offers mobile applications for iOS and Android devices, allowing clinicians to access patient information, review test results, and communicate with colleagues from anywhere. These mobile applications leverage technologies such as secure messaging and encrypted data transmission to ensure data privacy and security.
 
-- Telemedicine Integration: In response to the growing popularity of telemedicine, Epic has integrated telemedicine capabilities into its EHR system. This allows healthcare providers to conduct virtual visits and consultations with patients directly within the Epic platform.
+- **Telemedicine Integration**: In response to the growing popularity of telemedicine, Epic has integrated telemedicine capabilities into its EHR system. This allows healthcare providers to conduct virtual visits and consultations with patients directly within the Epic platform.
 
-- Data Analytics and Business Intelligence: Epic utilizes data analytics and business intelligence tools to help healthcare organizations analyze and visualize their data, identify trends, and make informed decisions. This includes tools for population health management, financial analysis, and quality improvement.
+- **Data Analytics and Business Intelligence**: Epic utilizes data analytics and business intelligence tools to help healthcare organizations analyze and visualize their data, identify trends, and make informed decisions. This includes tools for population health management, financial analysis, and quality improvement.
 
-Overall, Epic Systems leverages a range of technologies to enhance its EHR system and provide healthcare organizations with the tools they need to deliver high-quality care and improve patient outcomes.
+ Epic Systems leverages a range of technologies to enhance its EHR system and provide healthcare organizations with the tools they need to deliver high-quality care and improve patient outcomes.
 
 
 ## Landscape
@@ -97,24 +97,24 @@ Any AI suggestions, such as after-visit summaries, messages or medication orders
 And while machine-based learning isn’t new to Epic — there are already nearly 2,200 functions within its software — the company hopes it’ll decrease worker burnout and decrease administrative costs.
 
 #### Key Trends
-- Interoperability: There has been a push for greater interoperability between EHR systems, allowing different systems to seamlessly exchange patient information. Epic and other EHR vendors have worked to improve interoperability through standards such as HL7 and FHIR.
+- **Interoperability**: There has been a push for greater interoperability between EHR systems, allowing different systems to seamlessly exchange patient information. Epic and other EHR vendors have worked to improve interoperability through standards such as HL7 and FHIR.
 
-- Mobile Access: The rise of mobile technology has led to an increased focus on mobile access to EHR systems. Epic and other EHR vendors have developed mobile applications that allow clinicians to access patient information from smartphones and tablets.
+- **Mobile Access**: The rise of mobile technology has led to an increased focus on mobile access to EHR systems. Epic and other EHR vendors have developed mobile applications that allow clinicians to access patient information from smartphones and tablets.
 
-- Patient Engagement: There has been a growing emphasis on patient engagement, with EHR systems offering tools to help patients access their own health information, communicate with their providers, and participate in their care.
+- **Patient Engagemen**: There has been a growing emphasis on patient engagement, with EHR systems offering tools to help patients access their own health information, communicate with their providers, and participate in their care.
 
-- Population Health Management: EHR systems have evolved to include population health management tools, allowing healthcare organizations to analyze data from their patient populations to identify trends, manage chronic diseases, and improve overall health outcomes.
+- **Population Health Management**: EHR systems have evolved to include population health management tools, allowing healthcare organizations to analyze data from their patient populations to identify trends, manage chronic diseases, and improve overall health outcomes.
 
-- Artificial Intelligence and Machine Learning: AI and machine learning have been increasingly integrated into EHR systems to help improve clinical decision-making, automate tasks, and improve the accuracy of diagnoses.
+- **Artificial Intelligence and Machine Learning**: AI and machine learning have been increasingly integrated into EHR systems to help improve clinical decision-making, automate tasks, and improve the accuracy of diagnoses.
 
-- Cloud Computing: There has been a shift towards cloud-based EHR systems, which offer greater scalability, flexibility, and accessibility compared to traditional on-premise systems.
+- **Cloud Computing**: There has been a shift towards cloud-based EHR systems, which offer greater scalability, flexibility, and accessibility compared to traditional on-premise systems.
 
-- Telemedicine Integration: With the rise of telemedicine, EHR systems have begun to integrate telemedicine capabilities, allowing clinicians to conduct virtual visits and consultations with patients.
+- **Telemedicine Integration**: With the rise of telemedicine, EHR systems have begun to integrate telemedicine capabilities, allowing clinicians to conduct virtual visits and consultations with patients.
 
 These trends and innovations have helped to shape the modern EHR landscape, making systems more user-friendly, interoperable, and capable of supporting the evolving needs of healthcare organizations and their patients.
 
 ### Competitors
-#### 7 best chronic care management software companies:
+#### 7 Best Chronic Care Management Software Companies:
 -	Epic
 -	Timedoc health
 -	Chronic Care IQ
@@ -140,7 +140,7 @@ Epic Systems faces competition from several other major electronic health record
 
 ![Competitor companies](https://github.com/jaccolumbro/ai-case-study/assets/159741601/ca6645a7-65ba-43f2-babe-b70150b246d4)
 
-### Cerner vs Epic Market Share
+##### Cerner vs Epic Market Share
 
 In terms of market share, Epic has the largest share among all other EHRs. The current stats report that Epic has 34% of the market share, whereas Cerner has 30%. There's no debate that Cerner holds the second spot after Epic as the most popular EHR.  
 
@@ -161,28 +161,28 @@ However, Epic has faced criticism for its high costs and the complexity of its s
 
 
 ### EHR Market Dominance
-1. More than 305 million patients have an electronic record in Epic, up more than 50 million over last year.
+- More than 305 million patients have an electronic record in Epic, up more than 50 million over last year.
 
-2. In the U.S., Epic gained 83 hospitals and 14,330 beds in 2022, according to KLAS Research. None of its competitors added beds last year, while only Oracle Cerner picked up hospitals.
+- In the U.S., Epic gained 83 hospitals and 14,330 beds in 2022, according to KLAS Research. None of its competitors added beds last year, while only Oracle Cerner picked up hospitals.
 
-3. Epic had 35.9 percent of the U.S. acute care hospital market share in 2022, up 3 percent from the year prior, and 47.6 percent of hospital beds, KLAS found.
+- Epic had 35.9 percent of the U.S. acute care hospital market share in 2022, up 3 percent from the year prior, and 47.6 percent of hospital beds, KLAS found.
 
-4. From 2017 to 2022, Epic picked up 434 hospitals and 94,656 beds in the U.S., per KLAS. The only other winners in that time period were Oracle Cerner and Meditech, with 99 and 14 hospitals, respectively.
+- From 2017 to 2022, Epic picked up 434 hospitals and 94,656 beds in the U.S., per KLAS. The only other winners in that time period were Oracle Cerner and Meditech, with 99 and 14 hospitals, respectively.
 
-5. In 2021, Epic's revenue jumped 13 percent to $3.8 billion, per Forbes.
+- In 2021, Epic's revenue jumped 13 percent to $3.8 billion, per Forbes.
 
-6. In August, Epic founder and CEO Judy Faulkner's net worth reached a personal high of $7.5 billion, according to Forbes, which listed her as America's third-richest self-made woman in 2023.
+- In August, Epic founder and CEO Judy Faulkner's net worth reached a personal high of $7.5 billion, according to Forbes, which listed her as America's third-richest self-made woman in 2023.
 
-7. Epic will soon be used by all the hospitals on U.S. News & World Report's Best Hospitals 2023-24 Honor Roll, as New Hyde Park, N.Y.-based Northwell Health is transitioning to Epic. 
+- Epic will soon be used by all the hospitals on U.S. News & World Report's Best Hospitals 2023-24 Honor Roll, as New Hyde Park, N.Y.-based Northwell Health is transitioning to Epic. 
 
-8. Epic's big health system wins in 2022 included Atlanta-based Emory Healthcare and Houston-based Memorial Hermann Health System.
+- Epic's big health system wins in 2022 included Atlanta-based Emory Healthcare and Houston-based Memorial Hermann Health System.
 
-9. In the past year, Epic has collaborated with Amazon, Apple, Google and Microsoft.
+- In the past year, Epic has collaborated with Amazon, Apple, Google and Microsoft.
 
 ### Performance
 As a private company, Epic Systems does not publicly disclose detailed financial information, so it can be challenging to provide a direct comparison of its financial performance relative to competitors in the same field. The company is believed to be performing well financially relative to competitors in the same field, thanks to its strong market position, customer base, and commitment to innovation.
 
-### Revenue
+### Revenue of Epic Users
 #### Top 10 hospitals by net patient revenue using an inpatient Epic EHR system
 ![Net patient revenue Epic Hospitals](https://github.com/jaccolumbro/ai-case-study/assets/159741601/0e45da1f-4fb1-4bd8-876b-af616289ef17)
 
@@ -192,24 +192,27 @@ As a private company, Epic Systems does not publicly disclose detailed financial
 Education and Training Services: Offering comprehensive education and training services for healthcare professionals to maximize the use of Epic's software and stay current with best practices.
 
 ### Benefits from Training
-1.	User Proficiency: Comprehensive training programs can help users become proficient in using Epic's EHR system, ensuring that they can navigate the system efficiently and use its features effectively. This can lead to improved productivity and user satisfaction.
-2.	Optimized Workflows: Training can help healthcare organizations optimize their workflows and customize the EHR system to meet their specific needs. This can lead to streamlined processes, reduced errors, and improved efficiency.
-3.	Enhanced Patient Care: Education and training can help healthcare providers understand how to use Epic's EHR system to improve patient care. This includes using clinical decision support tools, accessing patient information quickly, and documenting care accurately.
-4.	Improved Data Quality: Proper training can help users understand the importance of accurate and complete documentation, leading to improved data quality in the EHR system. This can result in better clinical decision-making and more accurate reporting.
-5.	Maximized System Utilization: Training can help healthcare organizations maximize their investment in Epic's EHR system by ensuring that users are aware of and proficient in using all available features and functionalities. This can help organizations derive greater value from the system.
+-	**User Proficiency** Comprehensive training programs can help users become proficient in using Epic's EHR system, ensuring that they can navigate the system efficiently and use its features effectively. This can lead to improved productivity and user satisfaction.
+-	**Optimized Workflows**: Training can help healthcare organizations optimize their workflows and customize the EHR system to meet their specific needs. This can lead to streamlined processes, reduced errors, and improved efficiency.
+-	**Enhanced Patient Care**: Education and training can help healthcare providers understand how to use Epic's EHR system to improve patient care. This includes using clinical decision support tools, accessing patient information quickly, and documenting care accurately.
+-	**Improved Data Quality**: Proper training can help users understand the importance of accurate and complete documentation, leading to improved data quality in the EHR system. This can result in better clinical decision-making and more accurate reporting.
+-	**Maximized System Utilization**: Training can help healthcare organizations maximize their investment in Epic's EHR system by ensuring that users are aware of and proficient in using all available features and functionalities. This can help organizations derive greater value from the system.
 
 ### Technologies for Training
-1.	E-Learning Platforms: E-learning platforms can deliver training materials online, allowing users to access them at their convenience. These platforms can include interactive modules, videos, quizzes, and other engaging content to enhance the learning experience.
-2.	Virtual Reality (VR) and Augmented Reality (AR): VR and AR technologies can provide immersive training experiences, allowing users to simulate real-world scenarios and practice using Epic's EHR system in a safe environment.
-3.	Simulations and Case Studies: Simulations and case studies can help reinforce learning by allowing users to apply their knowledge in realistic scenarios. These can be delivered through interactive modules or virtual patient encounters.
-4.	Collaboration Tools: Collaboration tools, such as discussion forums and virtual classrooms, can facilitate interaction and collaboration among learners. This can create a sense of community and support among users.
-5.	Analytics and Reporting: Analytics and reporting tools can track user progress and performance, allowing trainers to identify areas where additional support may be needed. This can help tailor training programs to meet the specific needs of users.
+-	**E-Learning Platforms**: E-learning platforms can deliver training materials online, allowing users to access them at their convenience. These platforms can include interactive modules, videos, quizzes, and other engaging content to enhance the learning experience.
+-	**Virtual Reality (VR) and Augmented Reality (AR)**: VR and AR technologies can provide immersive training experiences, allowing users to simulate real-world scenarios and practice using Epic's EHR system in a safe environment.
+-	**Simulations and Case Studies**: Simulations and case studies can help reinforce learning by allowing users to apply their knowledge in realistic scenarios. These can be delivered through interactive modules or virtual patient encounters.
+-	**Collaboration Tools**: Collaboration tools, such as discussion forums and virtual classrooms, can facilitate interaction and collaboration among learners. This can create a sense of community and support among users.
+-	**Analytics and Reporting**: Analytics and reporting tools can track user progress and performance, allowing trainers to identify areas where additional support may be needed. This can help tailor training programs to meet the specific needs of users.
 
 ### Impact of Technology Training
-1.	Accessibility: Virtual training allows users to access training materials from anywhere, at any time, making it convenient for healthcare providers with busy schedules. This flexibility can help ensure that training is accessible to all users, regardless of their location or availability.
-2.	Cost-Effectiveness: Virtual training eliminates the need for travel and in-person training sessions, reducing costs associated with training delivery. This can be especially beneficial for healthcare organizations with limited training budgets.
-3.	Scalability: Virtual training can easily scale to accommodate large numbers of users, making it suitable for healthcare organizations of all sizes. This scalability allows organizations to train their entire workforce efficiently and effectively.
-4.	Interactivity: Virtual training can be highly interactive, incorporating features such as simulations, quizzes, and virtual patient encounters. This interactivity can enhance the learning experience and improve knowledge retention.
-5.	Real-Time Feedback: Virtual training can provide real-time feedback to users, allowing them to track their progress and identify areas where they may need additional support. This feedback can help users stay engaged and motivated throughout the training process.
-6.	Consistency: Virtual training ensures a consistent training experience for all users, regardless of their location or the trainer delivering the content. This consistency can help ensure that all users receive the same level of training and knowledge.
+-	**Accessibility**: Virtual training allows users to access training materials from anywhere, at any time, making it convenient for healthcare providers with busy schedules. This flexibility can help ensure that training is accessible to all users, regardless of their location or availability.
+-	**Cost-Effectiveness**: Virtual training eliminates the need for travel and in-person training sessions, reducing costs associated with training delivery. This can be especially beneficial for healthcare organizations with limited training budgets.
+-	**Scalability**: Virtual training can easily scale to accommodate large numbers of users, making it suitable for healthcare organizations of all sizes. This scalability allows organizations to train their entire workforce efficiently and effectively.
+- **Interactivity**: Virtual training can be highly interactive, incorporating features such as simulations, quizzes, and virtual patient encounters. This interactivity can enhance the learning experience and improve knowledge retention.
+-	**Real-Time Feedback**: Virtual training can provide real-time feedback to users, allowing them to track their progress and identify areas where they may need additional support. This feedback can help users stay engaged and motivated throughout the training process.
+-	**Consistency**: Virtual training ensures a consistent training experience for all users, regardless of their location or the trainer delivering the content. This consistency can help ensure that all users receive the same level of training and knowledge.
 
+
+Ongoing and consistent training can facilitate effective and efficienct ways to deliver and utilize Epic Solutions, providing users with the most current skill set they need to effectively navigate Epic Systems.
+Epic Systems and solutions are constantly evolving, therefore ongoing training would be critical in user success and retention.
