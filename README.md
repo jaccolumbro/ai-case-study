@@ -252,3 +252,7 @@ Epic Systems and solutions are constantly evolving, therefore ongoing training w
 
 ## Conclusion
 Epic Systems' sustained dominance in the EHR hospital market is a testament to its technological superiority, innovative solutions, and strategic partnerships. As the healthcare industry continues to evolve, Epic Systems is poised to maintain its leadership position, contributing significantly to the transformation of healthcare delivery and management.
+
+[Epic](https://www.epic.com/)
+
+
