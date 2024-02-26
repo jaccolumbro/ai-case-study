@@ -28,11 +28,13 @@ In other words, the $3.8 billion in revenue that Epic generates comes not only f
 
 
 # Business Activities
-## Lets ask the creator: "What did your customers, including the physicians, want you to solve?"
+## Let us ask the creator: "What did your customers, including the physicians, want you to solve?"
 > "The problem they were trying to solve was twofold. One, they wanted to keep information about patients, but they wanted to define for themselves what that information was going to be. They wanted to create their own screens. They wanted to define their own data elements. And two, they wanted clinical information.
 Back then, database management systems were not widely available, so people did not define their own screens. And the systems available were billing, like IDX, and labs, like Cerner, but they were not clinical information systems.
 So those were the twin problems I was trying to solve: the ability to define your own data elements for clinical information.
 But there is a third part to it too. It was not meant to be one-time static information. It was meant to be information that would keep going over time so you could look back at the history of that patient or look forward to the plans and future schedules of that patient, rather than just, here is a frozen-moment-in-time snapshot." -Judith Faulkner
+
+![Faulkner](https://github.com/jaccolumbro/ai-case-study/assets/159741601/e3f79b03-a5a8-4c9d-91fc-01737f28d830)
 
 
 ### Epic Systems aims to solve several key challanges faced by healthcare organizations, including: 
