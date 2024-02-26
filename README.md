@@ -22,7 +22,7 @@ But there is a third part to it too. It was not meant to be one-time static info
 
 
 
-Epic Systems aims to solve several key challanges faced by healthcare organizations, including: 
+### Epic Systems aims to solve several key challanges faced by healthcare organizations, including: 
 1. Efficiency and Workflow Optimization: Epic's EHR system is designed to streamline clinical workflows, reduce administrative burden, and improve efficiency within healthcare organizations. By digitizing and centralizing patient information, Epic helps healthcare providers access and manage patient data more easily, leading to improved care coordination and faster decision-making.
 2. Data Integration and Interoperability: Epic Solutions addresses the challenge of integrating and exchanging data between different systems and healthcare organizations. Epic's EHR system is built on interoperability standards, allowing for seamless data exchange with other systems and providers, regardless of the EHR system they use.
 3. Patient Engagement and Empowerment: Epic Solutions includes tools to engage patients in their care, such as patient portals and mobile applications. These tools allow patients to access their health information, communicate with their providers, schedule appointments, and participate in their care, leading to improved patient satisfaction and outcomes.
@@ -69,6 +69,35 @@ Epic Systems incorporates a variety of technologies into its electronic health r
 Overall, Epic Systems leverages a range of technologies to enhance its EHR system and provide healthcare organizations with the tools they need to deliver high-quality care and improve patient outcomes.
 
 
+## Landscape
+### Field
+Epic Systems Corporation holds a strong position in the Healthcare IT market.
+
+Epic Systems is a developer, manufacturer, licenser, supporter, and seller of a privately owned digital medical record software app that is known as Epic or the Epic EMR (Electronic Medical Records). The software is primarily based on Epic's own database management system known as Chronicles.
+
+### Major Trends in Healthcare IT
+Through a partnership with Microsoft, Epic launched its own generative AI technology, four months after the debut of ChatGPT. With it, Epic hopes to add AI to some of its most recognizable platforms, including MyChart and the patient management app Rover, to reduce administrative tasks for clinicians and allow patients to schedule appointments with just a few text messages from a chatbot.
+
+Any AI suggestions, such as after-visit summaries, messages or medication orders, have to be reviewed and confirmed by clinicians before being sent to patients.
+
+And while machine-based learning isn’t new to Epic — there are already nearly 2,200 functions within its software — the company hopes it’ll decrease worker burnout and decrease administrative costs.
+
+#### Key Trends
+- Interoperability: There has been a push for greater interoperability between EHR systems, allowing different systems to seamlessly exchange patient information. Epic and other EHR vendors have worked to improve interoperability through standards such as HL7 and FHIR.
+
+- Mobile Access: The rise of mobile technology has led to an increased focus on mobile access to EHR systems. Epic and other EHR vendors have developed mobile applications that allow clinicians to access patient information from smartphones and tablets.
+
+- Patient Engagement: There has been a growing emphasis on patient engagement, with EHR systems offering tools to help patients access their own health information, communicate with their providers, and participate in their care.
+
+- Population Health Management: EHR systems have evolved to include population health management tools, allowing healthcare organizations to analyze data from their patient populations to identify trends, manage chronic diseases, and improve overall health outcomes.
+
+- Artificial Intelligence and Machine Learning: AI and machine learning have been increasingly integrated into EHR systems to help improve clinical decision-making, automate tasks, and improve the accuracy of diagnoses.
+
+- Cloud Computing: There has been a shift towards cloud-based EHR systems, which offer greater scalability, flexibility, and accessibility compared to traditional on-premise systems.
+
+- Telemedicine Integration: With the rise of telemedicine, EHR systems have begun to integrate telemedicine capabilities, allowing clinicians to conduct virtual visits and consultations with patients.
+
+These trends and innovations have helped to shape the modern EHR landscape, making systems more user-friendly, interoperable, and capable of supporting the evolving needs of healthcare organizations and their patients.
 
 
 
