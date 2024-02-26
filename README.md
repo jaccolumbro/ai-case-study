@@ -262,3 +262,35 @@ Epic Systems' sustained dominance in the EHR hospital market is a testament to i
 [Epic Systems Corporation](https://www.epic.com/)
 
 
+
+
+## Works Cited/Resources
+"9 Facts That Show Epic's Dominance." Becker's Hospital Review, https://www.beckershospitalreview.com/ehrs/9-facts-that-show-epics-dominance.html
+
+"AI." Epic Systems, https://www.epic.com/software/ai/
+
+"Best Chronic Care Management Software Companies." Binariks, https://binariks.com/blog/best-chronic-care-management-software-companies/
+
+"Epic AI Integration, Genetic Testing." Madison.com, https://madison.com/news/local/business/health-care/epic-ai-integration-genetic-testing/article_395c4664-4116-11ee-8c2b-f34a69984d18.html
+
+"Epic Reviews." TrustRadius, https://www.trustradius.com/products/epic/reviews?qs=pros-and-cons#reviews
+
+"Epic Systems." Craft.co, https://craft.co/epic-systems/competitors
+
+"Epic Systems Corp." TechTarget, https://www.techtarget.com/searchhealthit/definition/Epic-Systems-Corp
+
+"Epic Systems' Sustained Dominance in the EHR Hospital Market." Medriva, https://medriva.com/health/healthcare/epic-systems-sustained-dominance-in-the-ehr-hospital-market/
+
+"Into the Death Zone: What Digital Health Can Learn from Epic's $38B Revenue." Forbes, 28 Nov. 2023, https://www.forbes.com/sites/sethjoseph/2023/11/28/into-the-death-zone-what-digital-health-can-learn-from-epics-38b-revenue/?sh=43d61a942e5c
+
+"Top Hospitals Using Epic EHR." Definitive Healthcare, https://www.definitivehc.com/blog/top-hospitals-using-epic-ehr
+
+"What is the Epic System for Healthcare?" Folio3 Digital Health, https://digitalhealth.folio3.com/blog/what-is-the-epic-system-for-healthcare/#:~:text=Epic%20Systems%20is%20a%20developer,management%20system%20known%20as%20Chronicles
+
+Klasko, Stephen K. "An Epic Viewpoint: An Interview with Judy Faulkner, CEO of Epic Systems." Healthcare Transformation, Dec. 2016, pp. 212-221, doi:10.1089/heat.2016.29026.jfa. https://www.liebertpub.com/doi/full/10.1089/heat.2016.29026.jfa
+
+"Great Healthcare Software Duel: Cerner vs. Epic, Which One?" LinkedIn, https://www.linkedin.com/pulse/great-healthcare-software-duel-cerner-vs-epic-which-riken-shah
+
+EMRsystems.net. https://www.emrsystems.net/epic-ehr-software/
+
+
