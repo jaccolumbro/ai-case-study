@@ -70,7 +70,7 @@ Overall, Epic Systems leverages a range of technologies to enhance its EHR syste
 
 
 ## Landscape
-### Field
+### Market
 Epic Systems Corporation holds a strong position in the Healthcare IT market.
 
 Epic Systems is a developer, manufacturer, licenser, supporter, and seller of a privately owned digital medical record software app that is known as Epic or the Epic EMR (Electronic Medical Records). The software is primarily based on Epic's own database management system known as Chronicles.
@@ -98,6 +98,21 @@ And while machine-based learning isn’t new to Epic — there are already nearl
 - Telemedicine Integration: With the rise of telemedicine, EHR systems have begun to integrate telemedicine capabilities, allowing clinicians to conduct virtual visits and consultations with patients.
 
 These trends and innovations have helped to shape the modern EHR landscape, making systems more user-friendly, interoperable, and capable of supporting the evolving needs of healthcare organizations and their patients.
+
+### Competitors
+7 best chronic care management software companies:
+-	Epic
+-	Timedoc health
+-	Chronic Care IQ
+-	WRS Health (Psychiartry- Cloud and OBGYN Cloud)
+-	ThoroughCare
+-	WellSky
+-	RXNT
+
+![Competitors image](https://github.com/jaccolumbro/ai-case-study/assets/159741601/cc2c92d4-e7a2-4ac9-837b-fdcbf317da48)
+
+
+
 
 
 
