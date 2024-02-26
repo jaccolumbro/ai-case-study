@@ -2,6 +2,8 @@
 **Author:** Jackie Columbro
 **Date:** 02/26/2024
 
+![Epic-Systems-Logo 50](https://github.com/jaccolumbro/ai-case-study/assets/159741601/a93db4d7-44d8-4ad6-8dd0-c7a7f3908b69)
+
 
 # Epic Systems Corporation
 ## Overview and Origin
@@ -101,7 +103,7 @@ And while machine-based learning isn’t new to Epic — there are already nearl
 
 - **Mobile Access**: The rise of mobile technology has led to an increased focus on mobile access to EHR systems. Epic and other EHR vendors have developed mobile applications that allow clinicians to access patient information from smartphones and tablets.
 
-- **Patient Engagemen**: There has been a growing emphasis on patient engagement, with EHR systems offering tools to help patients access their own health information, communicate with their providers, and participate in their care.
+- **Patient Engagement**: There has been a growing emphasis on patient engagement, with EHR systems offering tools to help patients access their own health information, communicate with their providers, and participate in their care.
 
 - **Population Health Management**: EHR systems have evolved to include population health management tools, allowing healthcare organizations to analyze data from their patient populations to identify trends, manage chronic diseases, and improve overall health outcomes.
 
