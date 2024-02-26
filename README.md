@@ -24,7 +24,7 @@ Epic’s current success is not due to market forces alone. Commonly understood 
 
 In other words, the $3.8 billion in revenue that Epic generates comes not only from Epic’s own efforts, but as a result of, effectively, a federal mandate and billions of dollars in taxpayer subsidies.
 
-[Forbes] (https://www.forbes.com/sites/sethjoseph/2023/11/28/into-the-death-zone-what-digital-health-can-learn-from-epics-38b-revenue/?sh=43d61a942e5c)
+[Forbes-Epic Revenue](https://www.forbes.com/sites/sethjoseph/2023/11/28/into-the-death-zone-what-digital-health-can-learn-from-epics-38b-revenue/?sh=43d61a942e5c)
 
 
 # Business Activities
@@ -82,6 +82,10 @@ Epic Systems has several features and capabilities that differentiate it from it
 - **Revenue Cycle Management**: AI can be used to optimize revenue cycle management processes, such as coding and billing, to ensure accurate and timely reimbursement.
 
 - **Population Health Management**: AI tools can analyze population health data to identify trends, risk factors, and opportunities for intervention to improve overall health outcomes.
+
+![AI solutions](https://github.com/jaccolumbro/ai-case-study/assets/159741601/10bcd4d6-0bcd-48bc-ab0d-e2b836b41e43)
+
+[Epic Artificial Intelligence](https://www.epic.com/software/ai/)
 
 
 ### Technologies Utilized
@@ -255,6 +259,6 @@ Epic Systems and solutions are constantly evolving, therefore ongoing training w
 ## Conclusion
 Epic Systems' sustained dominance in the EHR hospital market is a testament to its technological superiority, innovative solutions, and strategic partnerships. As the healthcare industry continues to evolve, Epic Systems is poised to maintain its leadership position, contributing significantly to the transformation of healthcare delivery and management.
 
-[Epic](https://www.epic.com/)
+[Epic Systems Corporation](https://www.epic.com/)
 
 
