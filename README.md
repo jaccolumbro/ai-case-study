@@ -100,7 +100,7 @@ And while machine-based learning isn’t new to Epic — there are already nearl
 These trends and innovations have helped to shape the modern EHR landscape, making systems more user-friendly, interoperable, and capable of supporting the evolving needs of healthcare organizations and their patients.
 
 ### Competitors
-7 best chronic care management software companies:
+#### 7 best chronic care management software companies:
 -	Epic
 -	Timedoc health
 -	Chronic Care IQ
@@ -111,7 +111,43 @@ These trends and innovations have helped to shape the modern EHR landscape, maki
 
 ![Competitors image](https://github.com/jaccolumbro/ai-case-study/assets/159741601/cc2c92d4-e7a2-4ac9-837b-fdcbf317da48)
 
+#### EHR companies
+Epic Systems faces competition from several other major electronic health record (EHR) companies. Some of the key competitors include:
 
+- Cerner Corporation: Cerner is one of the largest EHR vendors in the United States and offers a wide range of EHR solutions for healthcare organizations of all sizes. Cerner's offerings include EHR software, population health management tools, and revenue cycle management solutions.
+
+- Allscripts Healthcare Solutions: Allscripts offers EHR software and other healthcare IT solutions for hospitals, physician practices, and other healthcare organizations. Allscripts' EHR solutions focus on usability, interoperability, and customization.
+
+- Meditech: Meditech is a leading EHR vendor that offers integrated EHR and healthcare information system (HIS) solutions for hospitals and healthcare organizations. Meditech's solutions are known for their ease of use and comprehensive functionality.
+
+- Athenahealth: Athenahealth offers cloud-based EHR and practice management solutions for healthcare organizations. Athenahealth's solutions focus on improving efficiency and reducing administrative burdens for healthcare providers.
+
+- eClinicalWorks: eClinicalWorks offers EHR and practice management solutions for healthcare organizations of all sizes. eClinicalWorks' solutions are known for their user-friendly interface and customizable features.
+
+- NextGen Healthcare: NextGen Healthcare offers EHR, practice management, and revenue cycle management solutions for healthcare organizations. NextGen's solutions focus on interoperability, patient engagement, and practice efficiency.
+
+
+
+
+## Results
+### EHR Market Dominance
+1. More than 305 million patients have an electronic record in Epic, up more than 50 million over last year.
+
+2. In the U.S., Epic gained 83 hospitals and 14,330 beds in 2022, according to KLAS Research. None of its competitors added beds last year, while only Oracle Cerner picked up hospitals.
+
+3. Epic had 35.9 percent of the U.S. acute care hospital market share in 2022, up 3 percent from the year prior, and 47.6 percent of hospital beds, KLAS found.
+
+4. From 2017 to 2022, Epic picked up 434 hospitals and 94,656 beds in the U.S., per KLAS. The only other winners in that time period were Oracle Cerner and Meditech, with 99 and 14 hospitals, respectively.
+
+5. In 2021, Epic's revenue jumped 13 percent to $3.8 billion, per Forbes.
+
+6. In August, Epic founder and CEO Judy Faulkner's net worth reached a personal high of $7.5 billion, according to Forbes, which listed her as America's third-richest self-made woman in 2023.
+
+7. Epic will soon be used by all the hospitals on U.S. News & World Report's Best Hospitals 2023-24 Honor Roll, as New Hyde Park, N.Y.-based Northwell Health is transitioning to Epic. 
+
+8. Epic's big health system wins in 2022 included Atlanta-based Emory Healthcare and Houston-based Memorial Hermann Health System.
+
+9. In the past year, Epic has collaborated with Amazon, Apple, Google and Microsoft.
 
 
 
