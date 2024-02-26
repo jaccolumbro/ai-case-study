@@ -111,7 +111,7 @@ These trends and innovations have helped to shape the modern EHR landscape, maki
 
 ![Competitors image](https://github.com/jaccolumbro/ai-case-study/assets/159741601/cc2c92d4-e7a2-4ac9-837b-fdcbf317da48)
 
-#### EHR companies
+#### EHR Companies
 Epic Systems faces competition from several other major electronic health record (EHR) companies. Some of the key competitors include:
 
 - Cerner Corporation: Cerner is one of the largest EHR vendors in the United States and offers a wide range of EHR solutions for healthcare organizations of all sizes. Cerner's offerings include EHR software, population health management tools, and revenue cycle management solutions.
@@ -122,14 +122,27 @@ Epic Systems faces competition from several other major electronic health record
 
 - Athenahealth: Athenahealth offers cloud-based EHR and practice management solutions for healthcare organizations. Athenahealth's solutions focus on improving efficiency and reducing administrative burdens for healthcare providers.
 
-- eClinicalWorks: eClinicalWorks offers EHR and practice management solutions for healthcare organizations of all sizes. eClinicalWorks' solutions are known for their user-friendly interface and customizable features.
-
 - NextGen Healthcare: NextGen Healthcare offers EHR, practice management, and revenue cycle management solutions for healthcare organizations. NextGen's solutions focus on interoperability, patient engagement, and practice efficiency.
 
+![("C:\Users\Owner\bootcamp\ai-case-study\Competitors image.jpg")]
+
+
+![Competitors image]("C:\Users\Owner\bootcamp\ai-case-study\Competitor companies.png")
 
 
 
 ## Results
+### Business Impact
+Epic Systems Corporation is a leading provider of electronic health record (EHR) software for hospitals and healthcare organizations. It is known for its comprehensive suite of healthcare applications, including EHR, revenue cycle management, and patient engagement tools. Epic is often compared to other EHR vendors such as Cerner Corporation, Allscripts Healthcare Solutions, and Meditech.
+
+One of the key differences between Epic and its competitors is its business model. Epic typically sells its software through large, multi-year contracts that include implementation and support services. This approach can lead to higher upfront costs but often results in long-term relationships with customers.
+
+In terms of market share, Epic is one of the largest EHR vendors in the United States, particularly in the hospital market. It is known for its user-friendly interface, robust functionality, and interoperability capabilities, which allow healthcare providers to share patient information across different systems.
+
+However, Epic has faced criticism for its high costs and the complexity of its software, which some users find challenging to navigate. Additionally, some competitors have gained traction by offering more flexible pricing models or specialized solutions for specific healthcare segments.
+
+
+
 ### EHR Market Dominance
 1. More than 305 million patients have an electronic record in Epic, up more than 50 million over last year.
 
@@ -149,7 +162,33 @@ Epic Systems faces competition from several other major electronic health record
 
 9. In the past year, Epic has collaborated with Amazon, Apple, Google and Microsoft.
 
+### Performance
+As a private company, Epic Systems does not publicly disclose detailed financial information, so it can be challenging to provide a direct comparison of its financial performance relative to competitors in the same field. The company is believed to be performing well financially relative to competitors in the same field, thanks to its strong market position, customer base, and commitment to innovation.
 
 
+## Recommendations
+### Suggested Services
+Education and Training Services: Offering comprehensive education and training services for healthcare professionals to maximize the use of Epic's software and stay current with best practices.
 
+### Benefits from Training
+1.	User Proficiency: Comprehensive training programs can help users become proficient in using Epic's EHR system, ensuring that they can navigate the system efficiently and use its features effectively. This can lead to improved productivity and user satisfaction.
+2.	Optimized Workflows: Training can help healthcare organizations optimize their workflows and customize the EHR system to meet their specific needs. This can lead to streamlined processes, reduced errors, and improved efficiency.
+3.	Enhanced Patient Care: Education and training can help healthcare providers understand how to use Epic's EHR system to improve patient care. This includes using clinical decision support tools, accessing patient information quickly, and documenting care accurately.
+4.	Improved Data Quality: Proper training can help users understand the importance of accurate and complete documentation, leading to improved data quality in the EHR system. This can result in better clinical decision-making and more accurate reporting.
+5.	Maximized System Utilization: Training can help healthcare organizations maximize their investment in Epic's EHR system by ensuring that users are aware of and proficient in using all available features and functionalities. This can help organizations derive greater value from the system.
+
+### Technologies for Training
+1.	E-Learning Platforms: E-learning platforms can deliver training materials online, allowing users to access them at their convenience. These platforms can include interactive modules, videos, quizzes, and other engaging content to enhance the learning experience.
+2.	Virtual Reality (VR) and Augmented Reality (AR): VR and AR technologies can provide immersive training experiences, allowing users to simulate real-world scenarios and practice using Epic's EHR system in a safe environment.
+3.	Simulations and Case Studies: Simulations and case studies can help reinforce learning by allowing users to apply their knowledge in realistic scenarios. These can be delivered through interactive modules or virtual patient encounters.
+4.	Collaboration Tools: Collaboration tools, such as discussion forums and virtual classrooms, can facilitate interaction and collaboration among learners. This can create a sense of community and support among users.
+5.	Analytics and Reporting: Analytics and reporting tools can track user progress and performance, allowing trainers to identify areas where additional support may be needed. This can help tailor training programs to meet the specific needs of users.
+
+### Impact of Technology Training
+1.	Accessibility: Virtual training allows users to access training materials from anywhere, at any time, making it convenient for healthcare providers with busy schedules. This flexibility can help ensure that training is accessible to all users, regardless of their location or availability.
+2.	Cost-Effectiveness: Virtual training eliminates the need for travel and in-person training sessions, reducing costs associated with training delivery. This can be especially beneficial for healthcare organizations with limited training budgets.
+3.	Scalability: Virtual training can easily scale to accommodate large numbers of users, making it suitable for healthcare organizations of all sizes. This scalability allows organizations to train their entire workforce efficiently and effectively.
+4.	Interactivity: Virtual training can be highly interactive, incorporating features such as simulations, quizzes, and virtual patient encounters. This interactivity can enhance the learning experience and improve knowledge retention.
+5.	Real-Time Feedback: Virtual training can provide real-time feedback to users, allowing them to track their progress and identify areas where they may need additional support. This feedback can help users stay engaged and motivated throughout the training process.
+6.	Consistency: Virtual training ensures a consistent training experience for all users, regardless of their location or the trainer delivering the content. This consistency can help ensure that all users receive the same level of training and knowledge.
 
