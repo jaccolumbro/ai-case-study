@@ -138,14 +138,15 @@ Epic Systems faces competition from several other major electronic health record
 
 - NextGen Healthcare: NextGen Healthcare offers EHR, practice management, and revenue cycle management solutions for healthcare organizations. NextGen's solutions focus on interoperability, patient engagement, and practice efficiency.
 
+![Competitor companies](https://github.com/jaccolumbro/ai-case-study/assets/159741601/ca6645a7-65ba-43f2-babe-b70150b246d4)
 
-![Market share image](https://github.com/jaccolumbro/ai-case-study/assets/159741601/7d4a1f64-1a43-4992-9524-e5b2b414cc62)
+### Cerner vs Epic Market Share
 
 In terms of market share, Epic has the largest share among all other EHRs. The current stats report that Epic has 34% of the market share, whereas Cerner has 30%. There's no debate that Cerner holds the second spot after Epic as the most popular EHR.  
 
 A 2022 report revealed Epic gained 434 hospital beds and Cerner 22 hospital beds. Epic is the current favorite of many providers and practices, but Cerner is still catching up as it targets different providers.  
 
-
+![Market share image](https://github.com/jaccolumbro/ai-case-study/assets/159741601/7d4a1f64-1a43-4992-9524-e5b2b414cc62)
 
 ## Results
 ### Business Impact
@@ -180,6 +181,10 @@ However, Epic has faced criticism for its high costs and the complexity of its s
 
 ### Performance
 As a private company, Epic Systems does not publicly disclose detailed financial information, so it can be challenging to provide a direct comparison of its financial performance relative to competitors in the same field. The company is believed to be performing well financially relative to competitors in the same field, thanks to its strong market position, customer base, and commitment to innovation.
+
+### Revenue
+#### Top 10 hospitals by net patient revenue using an inpatient Epic EHR system
+![Net patient revenue Epic Hospitals](https://github.com/jaccolumbro/ai-case-study/assets/159741601/0e45da1f-4fb1-4bd8-876b-af616289ef17)
 
 
 ## Recommendations
